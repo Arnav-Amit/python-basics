@@ -20,7 +20,7 @@ def calculate_grade(percentage):
 name = input("Enter student name: ")
 
 # You can change or add more subjects
-subjects = ["Math", "Science", "English"]
+subjects = ["Math", "Science", "Hindi", "English","Computer" ]
 
 marks = []
 for sub in subjects:
